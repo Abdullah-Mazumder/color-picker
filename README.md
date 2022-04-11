@@ -1,1 +1,1 @@
-# colot-picker
+# color-picker
